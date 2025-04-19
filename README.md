@@ -51,6 +51,24 @@ Oferecer uma plataforma inovadora para que alunos possam realizar experimentos f
 
 ---
 
+## Clone do repositório
+1. Clone o repositório:
+```bash
+git clone https://github.com/barbara-azevedo/Hackathon.git
+````
+2. Navegue até o diretório do respositório:
+```bash
+cd Hackathon-main
+````
+3. Instale as dependências
+````bah
+npm install
+````
+4. Execute o projeto
+````bash
+npm run dev
+````
+
 ## 🔮 Próximos Passos
 
 - Modelagem precisa dos gêmeos digitais com dados físicos reais.
